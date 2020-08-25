@@ -1,0 +1,31 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanTo1/App_Website_Design.git"
+  },
+  "keywords": [
+    "App",
+    "html",
+    "boostrap"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HanTo1/App_Website_Design/issues"
+  },
+  "homepage": "https://github.com/HanTo1/App_Website_Design#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "owl.carousel": "^2.3.4",
+    "sass": "^1.26.10"
+  }
+}
